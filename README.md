@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stqack Development Machine Laerning and Artificial Intelligence
 - 🌱 I’m currently learning Python and Different Framework
 - 💞️ I’m looking to collaborate on pyhton projects
-- 📫 How to reach me mail me at umairazmat260@gmail.com
+- 📫 How to reach me mail me at uzairazmat260@gmail.com
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=uzairazmat&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
 
