@@ -57,14 +57,14 @@ You can click the Preview link to take a look at your changes.
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
     <p align="center">
-        <a href="https://github.com/umairazmat">
+        <a href="https://github.com/uzairazamt">
             <img height="180em"
-                src="https://github-readme-stats-sigma-five.vercel.app/api?username=umairazmat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+                src="https://github-readme-stats-sigma-five.vercel.app/api?username=uzairazamt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
             <img height="180em"
-                src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=umairazmat&langs_count=12&layout=compact&langs_count=8&theme=algolia" />
+                src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=uzairazamt&langs_count=12&layout=compact&langs_count=8&theme=algolia" />
         </a>
         <img width="50%"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=umairazmat&show_icons=true&locale=en&layout=demo&theme=algolia&hide_border=true" />
+            src="https://github-readme-streak-stats.herokuapp.com/?user=uzairazamt&show_icons=true&locale=en&layout=demo&theme=algolia&hide_border=true" />
     </p>
 
 <!-- quote -->
